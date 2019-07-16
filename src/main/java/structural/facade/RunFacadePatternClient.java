@@ -4,7 +4,7 @@ import structural.facade.interfaces.TravelFacade;
 
 import java.util.Date;
 
-public class Client {
+public class RunFacadePatternClient {
     public static void main(String[] args) {
         TravelFacade travelFacade = new TravelFacadeImpl();
 
