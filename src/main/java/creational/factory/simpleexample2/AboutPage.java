@@ -1,4 +1,4 @@
-package creational.factory.example3;
+package creational.factory.simpleexample2;
 
 public class AboutPage extends Page {
 }

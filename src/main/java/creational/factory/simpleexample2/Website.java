@@ -1,4 +1,4 @@
-package creational.factory.example3;
+package creational.factory.simpleexample2;
 
 import java.util.ArrayList;
 import java.util.List;
